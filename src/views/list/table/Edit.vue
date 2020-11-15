@@ -40,6 +40,7 @@
           <a-select-option :value="1">Option 1</a-select-option>
           <a-select-option :value="2">Option 2</a-select-option>
           <a-select-option :value="3">Option 3</a-select-option>
+		  <a-select-option :value="3">Option 4</a-select-option>
         </a-select>
       </a-form-item>
 
